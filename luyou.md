@@ -22,3 +22,6 @@ https://zhuanlan.zhihu.com/p/112862231
 记录路由信息的表 route -n
 该IP的网卡是什么
 本地是否有目标IP
+
+## 三、https://github.com/ros-controls/ros_controllers/blob/noetic-devel/joint_state_controller/src/joint_state_controller.cpp
+https://www.guyuehome.com/33038
